@@ -1,12 +1,13 @@
 # Student Study Planner
 A simple and responsive web application that helps students organize, manage, and track their study tasks.
 
-#Project Overview
+## Project Overview
+
 Student Study Planner is a frontend-based task management application developed using HTML, CSS, and JavaScript. It allows students to add study tasks with subject, date, and priority, and track their completion status.
 
 The project focuses on creating a simple, responsive, and user-friendly interface while applying core frontend development concepts.
 
-#Features
+## Features
 - Add study tasks
 - Add subject, date, and priority
 - Mark tasks as completed or pending
@@ -86,6 +87,15 @@ Add the required HTML, CSS, and JavaScript code.
 Open index.html using Live Server.
 Test the application in a web browser.
 Create a GitHub repository and upload the project files.
+
+How to Run
+Download or clone the repository.
+
+Open the project folder in Visual Studio Code.
+
+Open index.html using Live Server.
+
+The Student Study Planner will open in the browser.
 
 Testing
 The application was tested for:
